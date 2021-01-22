@@ -4,3 +4,7 @@
 Sem usar a bibilioteca express a gente consegue entregar paginas html.
 
 no segundo commit eu deixo o dominio mais facil de ser encontrado e melhoro a estrutura do codigo.
+
+no terceiro commit eu adiciono 4 botões cada um com um metodo http.
+
+retiro a opção de fazer um put e sbreescrever algo como exeplo.
